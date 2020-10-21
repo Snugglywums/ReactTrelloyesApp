@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import List from './List';
 import './App.css';
+import STORE from './store'
 
 
 const newRandomCard = () => {
